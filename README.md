@@ -9,8 +9,9 @@ Dataset contains anonymized data about 8,950 active credit card holders with 18 
 # Project Phases
 ### 1. Data Exploration and Preprocessing
 - Investigated dataset structure and features.
-- Handled missing values and cleaned anomalies.
 - Analyzed feature distributions and relationships.
+- Handled missing values and cleaned anomalies.
+- Performed dimensionality reduction on dataset.
 - Highlighted patterns to guide clustering strategy.
 
 ### 2. Determining Optimal Clusters
