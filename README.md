@@ -2,7 +2,6 @@
 This project applies unsupervised machine learning to segment credit card customers based on their behavioral data. Using clustering algorithms such as KMeans, Agglomerative Clustering, DBSCAN, and Gaussian Mixture Models, we analyze and group similar customers to generate insights for marketing and customer relationship management.
 
 # Dataset
-### Description
 Dataset contains anonymized data about 8,950 active credit card holders with 18 behavioral features, including balances, purchases, cash advances, and payment history over the past 6 months.
 - Source: Kaggle
 - Link: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
@@ -16,7 +15,7 @@ Dataset contains anonymized data about 8,950 active credit card holders with 18 
 
 ### 2. Determining Optimal Clusters
 Chose optimal number of clusters based on data behavior and statistical validation.
-#### Models Applied
+#### Models Applied:
 - KMeans
 - Agglomerative Clustering
 - Gaussian Mixture Models
